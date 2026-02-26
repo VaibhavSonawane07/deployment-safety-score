@@ -1,4 +1,4 @@
-def calculate_risk(service_name, error_rate):
+def calculate_risk(service_name, error_rate, latency_ms):
     """Calculates if a service is safe to deploy."""
     print(f"--- Checking health for: {service_name} ---")
     
