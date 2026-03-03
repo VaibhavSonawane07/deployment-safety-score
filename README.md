@@ -1,7 +1,5 @@
 # deployment-safety-score
 
-# Deployment Risk Analyzer (DevOps Health Check Tool)
-
 ## Overview
 
 Deployment Risk Analyzer is a simple Python-based DevOps utility that evaluates whether a service is safe to deploy based on runtime health metrics such as error rate and latency.
